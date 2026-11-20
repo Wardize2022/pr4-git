@@ -1,5 +1,5 @@
 EPS = 1e-9
-MAX_SIZE = 20
+MAX_SIZE = 25
 
 
 def input_size(prompt):
